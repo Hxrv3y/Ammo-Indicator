@@ -4,4 +4,4 @@ Just a simple Ammo Indicator script that shows how much ammo you have left in yo
 
 ## Preview Below
 
-![Alt Text](https://i.gyazo.com/6ce6fed959058e29f491c2c697c7ee98.gif)
+![Alt Text](https://gyazo.com/6ce6fed959058e29f491c2c697c7ee98.gif)
