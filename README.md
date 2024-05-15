@@ -4,3 +4,4 @@ Just a simple Ammo Indicator script that shows how much ammo you have left in yo
 
 ## Preview Below
 
+![Preview](https://github.com/Hxrv3y/Ammo-Indicator/assets/86970698/0db14c3e-1c38-4b69-9ebf-eeeb3ef51b44)
